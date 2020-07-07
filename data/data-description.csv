@@ -1,0 +1,25 @@
+﻿ID,A unique integer identifier of a customer.
+BAL_LIMIT,"Amount of the given credit, which includes both the individual consumer credit and his/her family (supplementary) credit."
+SEX,Gender (1 = male; 2 = female).
+EDUCATION,Education (1 = graduate school; 2 = university; 3 = high school; 4 = others). 
+MARRIAGE,Marital status (1 = married; 2 = single; 3 = others). 
+AGE,Age (year). 
+BILLED_AMT1,"Amount of billing statement in September, 2005"
+BILLED_AMT2,"Amount of billing statement in August, 2005"
+BILLED_AMT3,"Amount of billing statement in July, 2005"
+BILLED_AMT4,"Amount of billing statement in June, 2005"
+BILLED_AMT5,"Amount of billing statement in May, 2005"
+BILLED_AMT6,"Amount of billing statement in April, 2005"
+PAID_AMT1,"Amount paid in September, 2005"
+PAID_AMT2,"Amount paid in August, 2005"
+PAID_AMT3,"Amount paid in July, 2005"
+PAID_AMT4,"Amount paid in June, 2005"
+PAID_AMT5,"Amount paid in May, 2005"
+PAID_AMT6,"Amount paid in April, 2005"
+PAST_1,"Repayment status in September, 2005. The measurement scale for the repayment status is: -1 = paid duly; 0 = paid duly; 1 = payment delay for one month; 2 = payment delay for two months; . . .; 8 = payment delay for eight months; 9 = payment delay for nine months and above. "
+PAST_2,"Repayment status in August, 2005. The measurement scale for the repayment status is: -1 = paid duly; 0 = paid duly; 1 = payment delay for one month; 2 = payment delay for two months; . . .; 8 = payment delay for eight months; 9 = payment delay for nine months and above. "
+PAST_3,"Repayment status in July, 2005. The measurement scale for the repayment status is: -1 = paid duly; 0 = paid duly; 1 = payment delay for one month; 2 = payment delay for two months; . . .; 8 = payment delay for eight months; 9 = payment delay for nine months and above. "
+PAST_4,"Repayment status in June, 2005. The measurement scale for the repayment status is: -1 = paid duly; 0 = paid duly; 1 = payment delay for one month; 2 = payment delay for two months; . . .; 8 = payment delay for eight months; 9 = payment delay for nine months and above. "
+PAST_5,"Repayment status in May, 2005. The measurement scale for the repayment status is: -1 = paid duly; 0 = paid duly; 1 = payment delay for one month; 2 = payment delay for two months; . . .; 8 = payment delay for eight months; 9 = payment delay for nine months and above. "
+PAST_6,"Repayment status in April, 2005. The measurement scale for the repayment status is: -1 = paid duly; 0 = paid duly; 1 = payment delay for one month; 2 = payment delay for two months; . . .; 8 = payment delay for eight months; 9 = payment delay for nine months and above. "
+PAID_NEXT_MONTH,"Whether the customer paid duly for the next month (0 = not paid, 1 = paid)."
